@@ -11,3 +11,4 @@
 - IE
 - Edge
 - Opera
+- Android Smartphone Chrom und Standardbrowser
